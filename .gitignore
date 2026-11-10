@@ -1,0 +1,5 @@
+**/bin/
+**/obj/
+assignment.pdf
+node_modules/
+.env
